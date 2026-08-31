@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,postgres,mongodb,docker,linux,vue,nuxt,typescript,airflow,prometheus,grafana,ansible&perline=8" alt="Tecnologias">
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,postgres,mongodb,docker,linux,vue,nuxt,typescript,prometheus,grafana,ansible&perline=8" alt="Tecnologias">
 
 </div>
 
